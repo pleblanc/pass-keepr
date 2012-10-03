@@ -1,1 +1,1 @@
-# Store your password online, accessible through all devices
+# Securely store your passwords online and make them accessible through all your devices
